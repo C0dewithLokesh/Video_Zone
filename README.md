@@ -1,6 +1,5 @@
 # Video Zone
  <div align="center">
- <h2 align="center">WebForge</h2>
  
  This is a simple website built using React and Chakara UI.
  
